@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os, random, shutil
 
 source=input("Enter the recipe Directory : ")
